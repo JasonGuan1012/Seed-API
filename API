@@ -1,0 +1,11 @@
+passenger = {
+        'name': ['John Mortensen'],
+        'pclass': [2],
+        'sex': ['male'],
+        'age': [64],
+        'sibsp': [1],
+        'parch': [1],
+        'fare': [16.00],
+        'embarked': ['S'],
+        'alone': [False]
+    }
