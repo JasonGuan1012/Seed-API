@@ -9,3 +9,6 @@ passenger = {
         'embarked': ['S'],
         'alone': [False]
     }
+
+
+    //EXAMPLE ABOVE......
